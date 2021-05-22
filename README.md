@@ -76,12 +76,17 @@ Dominant female activity in branch A and B while the men seem to be slightly hig
 ## Future Work
 In other to make the work look more robust tasks like the following should have been carried out:
 a) Exploration of more data visualization tools
+
 b) Predictive Analysis to make a sustainable inference.
+
 c) Collection and addition of more relevant features
+
 d) Addition of more financial columns for a much more economic descriptive analytics
 
 ## Standout Section
 a) Groupby Categorization of the areas with the most rating
+
 b) Distribution visualization of sales by gender to see the volume of the total amount contributed by respective gender
+
 c) Comparison of other features to an important column 'RATING' which was not given in the project requirement. It is crucial to know the reaction of the branches to respective products and services provided, rating based on the product line.
 
