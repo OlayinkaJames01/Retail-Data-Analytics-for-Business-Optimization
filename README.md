@@ -1,10 +1,8 @@
 # 🛒 Retail Data Analytics on XYZ Supermarket
 
-This project provides a comprehensive data analysis of XYZ Supermarket’s operations across **Abuja**, **Lagos**, and **Port Harcourt**. Using **Python**, I explore customer behavior, product trends, sales performance, and payment preferences to derive actionable insights for growth and strategy optimization.
-
----
-
 ## 📊 Project Overview
+
+This project provides a comprehensive data analysis of XYZ Supermarket’s operations across **Abuja**, **Lagos**, and **Port Harcourt**. Using **Python**, I explore customer behavior, product trends, sales performance, and payment preferences to derive actionable insights for growth and strategy optimization.
 
 XYZ Supermarket operates multiple branches with diverse product lines:  
 - Electrical Accessories  
@@ -16,7 +14,6 @@ XYZ Supermarket operates multiple branches with diverse product lines:
 - Fashion Accessories  
 
 Descriptive statistics, data manipulation, and visual analytics were performed to understand business performance and customer preferences.
-
 ---
 
 ## 🔧 Project Workflow
